@@ -64,7 +64,7 @@ These changes ensure that the full model class (`RNNModel`) can be deserialized 
 
 # Sample output saved to:
 samples/sample
-
+```
 
 ##  Task 2: Dropout Experiments
 
